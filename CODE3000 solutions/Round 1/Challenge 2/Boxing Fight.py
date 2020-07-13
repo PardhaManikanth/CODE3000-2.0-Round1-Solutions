@@ -1,4 +1,7 @@
 import time
+
+
+
 n=int(input())
 t=time.time()
 l1=[int(x) for x in input().split()]
